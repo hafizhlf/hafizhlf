@@ -14,7 +14,7 @@
 
 - 👨‍💻 Odoo Developer with 5 years of experience.
 - 🌐 Specialized in ERP systems, customization, and integrations.
-- 💼 Worked on various Odoo modules, including Sales, Purchase, Inventory, Accounting and Manufacturing.
+- 💼 Worked on various Odoo modules, including Sales, Purchase, Inventory, HR, Accounting and Manufacturing.
 
 ### Skills
 
