@@ -42,11 +42,11 @@
 - Description: [Briefly describe the project and its significance.]
 - Contributions: [Mention your role and contributions to the project.]
 - Technologies: Odoo [Version], Python, [Other relevant technologies]
-- [Any screenshots or GIFs to showcase the project] -->
+- [Any screenshots or GIFs to showcase the project]
 
 ### GitHub Stats
 
-[You can use tools like GitHub Readme Stats to display dynamic stats about your GitHub activity and contributions.]
+[You can use tools like GitHub Readme Stats to display dynamic stats about your GitHub activity and contributions.] -->
 
 ### Contact
 
