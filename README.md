@@ -61,7 +61,7 @@ I'm grateful for the Odoo community and the countless developers who contribute 
 <picture>
   <source
     srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <source
     srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true"
@@ -69,6 +69,8 @@ I'm grateful for the Odoo community and the countless developers who contribute 
   />
   <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf)](https://github.com/hafizhlf)
 
 <!--
 **hafizhlf/hafizhlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
