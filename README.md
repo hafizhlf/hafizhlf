@@ -58,19 +58,36 @@ I'm grateful for the Odoo community and the countless developers who contribute 
 
 </p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true" />
-</picture>
-
-[![Top Langs](https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf)](https://github.com/hafizhlf)
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: light)"
+        />
+        <source
+          srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: light)"
+        />
+        <source
+          srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf&show_icons=true" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <!--
 **hafizhlf/hafizhlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
