@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 👨‍💻 Experienced Odoo Developer with 5 years in ERP systems.
+- 👨‍💻 Experienced Odoo Developer with 5+ years in ERP systems.
 - 🌐 Expert in ERP system customization and integrations.
 - 💼 Proficient in a range of Odoo modules: Sales, Purchase, Inventory, HR, Accounting, and Manufacturing.
 
