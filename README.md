@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Hafizh,</h1>
+<h1 align="center">Hello, I'm Hafizh!</h1>
 
 <p align="center">
-  Odoo Developer | Open-Source Enthusiast | Passionate about ERP Solutions
+  Odoo Developer | Open-Source Enthusiast | ERP Solutions Expert
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ### About Me
 
-- 👨‍💻 Odoo Developer with 5 years of experience.
-- 🌐 Specialized in ERP systems, customization, and integrations.
-- 💼 Worked on various Odoo modules, including Sales, Purchase, Inventory, HR, Accounting and Manufacturing.
+- 👨‍💻 Experienced Odoo Developer with 5 years in ERP systems.
+- 🌐 Expert in ERP system customization and integrations.
+- 💼 Proficient in a range of Odoo modules: Sales, Purchase, Inventory, HR, Accounting, and Manufacturing.
 
 ### Skills
 
@@ -24,70 +24,46 @@
 - PostgreSQL
 - Custom Module Development
 - UI/UX Customization
-- Integrations (e.g., APIs)
+- Integrations (APIs, etc.)
 - Data Migration
 - Odoo Community & Enterprise
 
-<!-- ### Projects
+### Projects
 
-#### [Project Name](https://github.com/your-username/project-repo)
+#### [Aloy.id](#)
+- **Description:** E-commerce platform integrated with multiple marketplaces and logistics systems.
+- **Contributions:** Developed and customized Odoo modules, integrated with Shopee, Tokopedia, TikTok, Lazada, RajaOngkir, and BCA bank.
+- **Technologies:** Odoo, Python, JavaScript, PostgreSQL
 
-- Description: [Briefly describe the project and its significance.]
-- Contributions: [Mention your role and contributions to the project.]
-- Technologies: Odoo [Version], Python, [Other relevant technologies]
-- [Any screenshots or GIFs to showcase the project]
+#### [Crowngrosir](#)
+- **Description:** Wholesale platform with advanced inventory and sales management features.
+- **Contributions:** Implemented marketplace integrations and custom modules, optimized performance.
+- **Technologies:** Odoo, Python, XML, PostgreSQL
 
-#### [Another Project Name](https://github.com/your-username/another-project-repo)
+#### [Sanzeilstore/Sanfashions](#)
+- **Description:** E-commerce website with Shopee integration and performance optimizations.
+- **Contributions:** Implemented Shopee integration, developed custom modules, and optimized site performance.
+- **Technologies:** Odoo, Python, XML, PostgreSQL
 
-- Description: [Briefly describe the project and its significance.]
-- Contributions: [Mention your role and contributions to the project.]
-- Technologies: Odoo [Version], Python, [Other relevant technologies]
-- [Any screenshots or GIFs to showcase the project]
+#### [Batamfast/Asianfast](#)
+- **Description:** Streamlined workflow across Marketing, SCM, Accounting, and HR departments.
+- **Contributions:** Enhanced efficiency by integrating and optimizing workflows from various departments.
+- **Technologies:** Odoo, Python, XML, PostgreSQL
 
 ### GitHub Stats
 
-[You can use tools like GitHub Readme Stats to display dynamic stats about your GitHub activity and contributions.] -->
+<p align="center">
+  <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf&show_icons=true&theme=dark" alt="Top Languages" />
+</p>
 
 ### Contact
 
-Feel free to reach out to me via [email](mailto:hafizhlf@outlook.com) if you have any questions or collaboration opportunities related to Odoo development.
+Feel free to reach out to me via [email](mailto:hafizhlf@outlook.com) for any questions or collaboration opportunities related to Odoo development.
 
 ### Acknowledgments
 
-I'm grateful for the Odoo community and the countless developers who contribute to open-source ERP solutions.
-
-</p>
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: light)"
-        />
-        <source
-          srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: light)"
-        />
-        <source
-          srcset="https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf&show_icons=true" />
-      </picture>
-    </td>
-  </tr>
-</table>
+Special thanks to the Odoo community and all the developers contributing to open-source ERP solutions!
 
 <!--
 **hafizhlf/hafizhlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
