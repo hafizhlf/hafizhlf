@@ -1,81 +1,39 @@
-<h1 align="center">Hello, I'm Hafizh!</h1>
+# Hi there 👋 I'm Hafizh Ibnu Syam
 
-<p align="center">
-  Odoo Developer | Open-Source Enthusiast | ERP Solutions Expert
-</p>
+A passionate Odoo developer transitioning into the exciting world of web development.  I enjoy building robust and scalable applications using diverse technologies and I'm always eager to learn and expand my skillset.
 
-<p align="center">
-  <a href="#">Website</a> •
-  <a href="https://www.linkedin.com/in/hafizh-ibnu-syam-0720b8248/">LinkedIn</a> •
-  <a href="mailto:hafizhlf@outlook.com">Email</a>
-</p>
+## 🚀 Skills
 
-### About Me
+* **Programming Languages:** Python, JavaScript
+* **Frameworks/Libraries:** Odoo, Next.js, Django, FastAPI, React
+* **Databases:** PostgreSQL (with Odoo and Django experience)
+* **Tools:** Git, Docker, Python Virtualenv
+* **Other:** Problem-solving, Communication, Teamwork, Agile Methodologies
 
-- 👨‍💻 Experienced Odoo Developer with 5+ years in ERP systems.
-- 🌐 Expert in ERP system customization and integrations.
-- 💼 Proficient in a range of Odoo modules: Sales, Purchase, Inventory, HR, Accounting, and Manufacturing.
 
-### Skills
+## 🌱 Currently Learning
 
-- Odoo Development
-- Python
-- XML
-- PostgreSQL
-- Custom Module Development
-- UI/UX Customization
-- Integrations (APIs, etc.)
-- Data Migration
-- Odoo Community & Enterprise
+* Deepening my expertise in Next.js and its ecosystem.
+* Exploring advanced concepts in React, such as performance optimization and state management.
 
-### Projects
 
-#### [Aloy.id](#)
-- **Description:** E-commerce platform integrated with multiple marketplaces and logistics systems.
-- **Contributions:** Developed and customized Odoo modules, integrated with Shopee, Tokopedia, TikTok, Lazada, RajaOngkir, and BCA bank.
-- **Technologies:** Odoo, Python, JavaScript, PostgreSQL
+## 👯 I’m looking to collaborate on ...
 
-#### [Crowngrosir](#)
-- **Description:** Wholesale platform with advanced inventory and sales management features.
-- **Contributions:** Implemented marketplace integrations and custom modules, optimized performance.
-- **Technologies:** Odoo, Python, XML, PostgreSQL
+* Open-source projects related to Next.js, Django, or FastAPI.
+* Web applications that solve real-world problems.
+* Projects that involve challenging technical concepts and allow me to learn new technologies.
 
-#### [Sanzeilstore/Sanfashions](#)
-- **Description:** E-commerce website with Shopee integration and performance optimizations.
-- **Contributions:** Implemented Shopee integration, developed custom modules, and optimized site performance.
-- **Technologies:** Odoo, Python, XML, PostgreSQL
 
-#### [Batamfast/Asianfast](#)
-- **Description:** Streamlined workflow across Marketing, SCM, Accounting, and HR departments.
-- **Contributions:** Enhanced efficiency by integrating and optimizing workflows from various departments.
-- **Technologies:** Odoo, Python, XML, PostgreSQL
+## 🤔 Ask me about ...
 
-### GitHub Stats
+* Odoo development and customization
+* Building APIs with FastAPI or Django REST Framework
+* Front-end development with React and Next.js
+* Python development best practices
 
-<p align="center">
-  <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api?username=hafizhlf&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-beta-ashy-85.vercel.app/api/top-langs/?username=hafizhlf&show_icons=true&theme=dark" alt="Top Languages" />
-</p>
 
-### Contact
+## 📫 How to reach me
 
-Feel free to reach out to me via [email](mailto:hafizhlf@outlook.com) for any questions or collaboration opportunities related to Odoo development.
-
-### Acknowledgments
-
-Special thanks to the Odoo community and all the developers contributing to open-source ERP solutions!
-
-<!--
-**hafizhlf/hafizhlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Email:** hafizhlf@outlook.com
+* **LinkedIn:** www.linkedin.com/in/hafizh-ibnu-syam-0720b8248
+* **Website:** https://hafizhibnusyam.xyz/
