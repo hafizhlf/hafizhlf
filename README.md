@@ -36,4 +36,4 @@ A passionate Odoo developer transitioning into the exciting world of web develop
 
 * **Email:** hafizhlf@outlook.com
 * **LinkedIn:** www.linkedin.com/in/hafizh-ibnu-syam-0720b8248
-* **Website:** https://hafizhibnusyam.xyz/
+* **Website:** https://hafizhibnusyam.my.id/
